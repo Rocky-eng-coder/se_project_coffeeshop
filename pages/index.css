@@ -147,7 +147,7 @@
   padding: 100px 0 120px;
   background-image: url(../images/background_reservation.svg);
   background-color: #d9e7ff;
-  background-repeat: no repeat;
+  background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
@@ -212,7 +212,7 @@
 
 .form__button[type="submit"] {
   color: #fff;
-  font-family: "Inter", "Arial" sans-serif;
+  font-family: "/Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -222,7 +222,7 @@
 .form__button:hover {
   background-color: #3f96f3;
   cursor: pointer;
-  transition: background-color 0.5s linear 1;
+  transition: background-color 0.5s linear 1s;
 }
 
 .form__checkbox {
