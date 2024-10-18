@@ -22,6 +22,12 @@
 }
 
 .nav__link {
-  text-decoration-line: none;
+  text-decoration: none;
   color: #000000;
+  transition: 0.5s;
+  cursor: pointer;
+}
+
+.nav__link:hover {
+  background-color: #2f80ed;
 }

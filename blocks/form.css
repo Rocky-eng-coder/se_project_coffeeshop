@@ -39,21 +39,14 @@
   border-radius: 4px;
   margin-bottom: 32px;
   background-color: #1878dc;
-}
-
-.form__button[type="submit"] {
   color: #fff;
-  font-family: "/Inter", Arial, sans-serif;
-  font-style: normal;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 20px;
+  cursor: pointer;
+  transition: background-color 0.5s;
 }
 
 .form__button:hover {
   background-color: #3f96f3;
-  cursor: pointer;
-  transition: background-color 0.5s linear 1s;
+  opacity: 70%;
 }
 
 .form__checkbox {
