@@ -9,8 +9,7 @@
 }
 
 .form__label {
-  font-family: "Inter", "Arial", sans-serif;
-  font-style: normal;
+  font-family: Inter, Arial, san-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 20px;
@@ -25,9 +24,7 @@
   margin: 8px 0 32px;
   border: 1px solid #838383;
   border-radius: 4px;
-  font-family: "Inter", "Arial", sans-serif;
-  font-style: normal;
-  font-weight: normal;
+  font-family: Inter, Arial, san-serif;
   font-size: 20px;
   line-height: 30px;
 }
@@ -55,8 +52,7 @@
   height: 20px;
   background-color: #1878dc;
   background-image: url(../images/check.svg);
-  font-family: "Inter", "Arial", sans-serif;
-  font-style: normal;
+  font-family: Inter, Arial, san-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 20px;
